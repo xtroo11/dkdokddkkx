@@ -11,10 +11,10 @@
         "maker",
         "generator"
     ],
-        "repository": "https://github.com/XTRO11",
-    "website": "https://t.me/JJ8JJ8",
-    "success_url": "https://t.me/JJ8JJ8",
-    "env":  
+        "repository": "https://github.com/J5J5/for_J5J5",
+    "website": "https://t.me/III7H",
+    "success_url": "https://t.me/III7H",
+    "env": {
         "BOT_TOKEN": {
             "description": "ضع التوكن الخاص بك https://t.me/BotFather"
         },
